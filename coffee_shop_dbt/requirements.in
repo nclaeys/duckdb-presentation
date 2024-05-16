@@ -1,0 +1,5 @@
+dbt-duckdb[glue]==1.7.5
+duckdb==0.10.2
+# extra features
+sqlfluff~=1.2.1
+pyiceberg[glue]~=0.3.0
